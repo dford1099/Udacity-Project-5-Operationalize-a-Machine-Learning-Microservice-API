@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![dford1099](https://circleci.com/gh/dford1099/Udacity-Project-5-Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](<LINK>)
 
 ## Project Overview
 
